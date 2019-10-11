@@ -1,7 +1,7 @@
 基于SSH的场馆预定管理系统，基于SSH的场馆预定
 技术架构：
 Spring+Struts2+hibernate
-功能截图：
+功能截图： 
 ![cgyd-v1](src/imgs/1.png)
 
 ![cgyd-v1](src/imgs/2.png)
