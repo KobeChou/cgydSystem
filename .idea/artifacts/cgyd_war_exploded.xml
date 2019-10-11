@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cgyd:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/cgyd_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cgyd" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="cgyd/web/Web" />
+      <element id="javaee-facet-resources" facet="cgyd/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/classes/pay_config.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/qiantai/toPay.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/adminAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/MD5Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/util/MerchantApiUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/util/PayConfigUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/5.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/6.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgs/qrcode.jpg" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
